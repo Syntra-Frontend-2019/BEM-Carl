@@ -36,3 +36,7 @@
     justify-content: space-between;
 }
 
+.button--success{
+    margin-right: 0.5rem;
+}
+
